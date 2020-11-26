@@ -35,4 +35,4 @@ This is more demanding and pleasant to use.
 <br /><br />
 
 
-![video](https://j.gifs.com/71Pm7A.gif)
+![video](https://gifs.com/gif/movie-clip-71Pm7A)
