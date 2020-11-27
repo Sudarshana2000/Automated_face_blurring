@@ -35,4 +35,4 @@ This is more demanding and pleasant to use.
 <br /><br />
 
 
-![video](videos/output3.1.gif)
+![video](videos/output3.gif)
